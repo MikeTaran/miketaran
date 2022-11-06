@@ -6,9 +6,11 @@
 ## My CV
 
 [Link to my CV](https://mykhailo-t.netlify.app)
-___
+
+---
 
 ### Language and Tools
+
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
@@ -22,12 +24,13 @@ ___
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=f76935)
 ![Header](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#ffb42d)
 
-________________
+---
 
 ### Testing Documentation
 
@@ -36,7 +39,15 @@ ________________
 - [Bug-Reports](https://github.com/miketaran/bug-reports)
 - [SQL Queries](https://github.com/miketaran/SQL)
 - [Postman Collections](https://github.com/miketaran/postman)
-_______________
+
+---
+
+### Front-End Development
+
+- [Web-development](https://github.com/miketaran/frontend)
+- [JavaScript](https://github.com/miketaran/frontend)
+
+---
 
 ### Follow Me
 
@@ -44,8 +55,21 @@ _______________
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Mike_Taran)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/Bear3XL)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/mykhailo-taran-46a72a2a/)
-___________
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miketaran&repo=frontend)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 [![codewars](https://www.codewars.com/users/Bear3XL/badges/large)](https://www.codewars.com/users/Bear3XL)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketaran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miketaran&show_icons=true&theme=radical)
+-->
+<!-- Карточка профиля:  -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikeTaran&theme=solarized_dark)
+<!-- Статистика языков в коммитах: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikeTaran&theme=solarized_dark)
+<!-- Статистика языков в репозиториях: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikeTaran&theme=solarized_dark)
+<!-- Статистика профиля: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikeTaran&theme=solarized_dark)
+<!-- Данные по коммитам за сутки: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikeTaran&theme=solarized_dark)
