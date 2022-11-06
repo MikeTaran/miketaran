@@ -9,7 +9,7 @@
 ___
 
 ### Language and Tools
-
+<div id="header" align="center">
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
@@ -27,6 +27,7 @@ ___
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=f76935)
 ![Header](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#ffb42d)
+<div>
 ________________
 
 ### Testing Documentation
