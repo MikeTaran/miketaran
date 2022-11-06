@@ -1,7 +1,7 @@
 ![Header](https://github.com/MikeTaran/miketaran/blob/main/assets/back1.png)
 
 ## I'm a QA Engineer.
-___
+
 ## My CV
 
 [Link to my CV](https://mykhailo-t.netlify.app)
