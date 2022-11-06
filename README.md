@@ -6,12 +6,6 @@
 
 [Link to my CV](https://mykhailo-t.netlify.app)
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
 ### Language and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
