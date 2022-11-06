@@ -1,10 +1,11 @@
 ![Header](https://github.com/MikeTaran/miketaran/blob/main/assets/back1.png)
 
 ## I'm a QA Engineer.
-
+___
 ## My CV
 
 [Link to my CV](https://mykhailo-t.netlify.app)
+___
 
 ### Language and Tools
 
@@ -25,21 +26,23 @@
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=f76935)
 ![Header](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#ffb42d)
+________________
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/miketaran/checklist)
+- [Test-Suites and Test-Cases](https://github.com/miketaran/test-cases)
+- [Bug-Reports](https://github.com/miketaran/bug-reports)
+- [SQL Queries](https://github.com/miketaran/SQL)
+- [Postman Collections](https://github.com/miketaran/postman)
+_______________
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/rusau.qalife/)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
-[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
+[![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=31a5db)](https://www.facebook.com/mikhail.taran.3)[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/bear3xl/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Mike_Taran)
+[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/Bear3XL)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/mykhailo-taran-46a72a2a/)
+___________
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miketaran&show_icons=true&theme=radical)
