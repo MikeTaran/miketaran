@@ -1,7 +1,7 @@
 ![Header](https://github.com/MikeTaran/miketaran/blob/main/assets/back1.png)
 ![count](https://komarev.com/ghpvc/?username=miketaran)
 
-# I'm a QA Engineer.
+#      I'm a QA Engineer.
 
 ## My CV
 
@@ -73,3 +73,4 @@ ___
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikeTaran&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikeTaran&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikeTaran&theme=github_dark)
+![github contribution grid snake animation](https://raw.githubusercontent.com/MikeTaran/MikeTaran/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/MikeTaran/MikeTaran/output/github-contribution-grid-snake.svg#gh-light-mode-only)
