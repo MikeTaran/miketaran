@@ -57,13 +57,17 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/mykhailo-taran-46a72a2a/)
 
 ---
+
 [![codewars](https://www.codewars.com/users/Bear3XL/badges/large)](https://www.codewars.com/users/Bear3XL)
+___
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<!--  
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketaran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miketaran&show_icons=true&theme=radical)
 -->
 <!-- Карточка профиля:  -->
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikeTaran&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikeTaran&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikeTaran&theme=github_dark)
