@@ -1,4 +1,5 @@
 ![Header](https://github.com/MikeTaran/miketaran/blob/main/assets/back1.png)
+![count](https://komarev.com/ghpvc/?username=miketaran)
 
 ## I'm a QA Engineer.
 
