@@ -45,6 +45,7 @@ _______________
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/Bear3XL)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/mykhailo-taran-46a72a2a/)
 ___________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MikeTaran=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miketaran&repo=frontend)](https://github.com/anuraghazra/github-readme-stats)
+[![codewars](https://www.codewars.com/users/Bear3XL/badges/large)](https://www.codewars.com/users/Bear3XL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketaran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miketaran&show_icons=true&theme=radical)
