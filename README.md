@@ -6,14 +6,14 @@
 ![count](https://komarev.com/ghpvc/?username=miketaran)
 
 <p align='center'>
-<h1>I'm a QA Engineer.</h1><br>
-
+<h1>I'm a QA Engineer.</h1>
 <h2>My CV</h2>
 
 [Link to my CV](https://mykhailo-t.netlify.app)
 
 ---
 </p>
+
 ### Language and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
