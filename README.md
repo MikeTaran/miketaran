@@ -12,6 +12,7 @@
 [Link to my CV](https://mykhailo-t.netlify.app)
 
 ---
+
 </p>
 
 ### Language and Tools
@@ -59,12 +60,14 @@
 [![Header](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=31a5db)](https://www.facebook.com/mikhail.taran.3)[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/bear3xl/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Mike_Taran)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/Bear3XL)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/mykhailo-taran-46a72a2a/)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/miketaran/)
 
 ---
 
 [![codewars](https://www.codewars.com/users/Bear3XL/badges/large)](https://www.codewars.com/users/Bear3XL)
-___
+
+---
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
