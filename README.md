@@ -6,7 +6,7 @@
 ![count](https://komarev.com/ghpvc/?username=miketaran)
 
 <p align='center'>
-<h1>I'm a QA Engineer.</h1>
+<h1>I'm a QA Engineer and the QA Engineer means me!</h1>
 <h2>My CV</h2>
 
 [Link to my CV](https://mykhailo-t.netlify.app)
