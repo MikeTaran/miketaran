@@ -48,6 +48,14 @@
 
 ---
 
+### QA Automation
+
+- [Python](https://github.com/MikeTaran/Python)
+
+---
+
+---
+
 ### Front-End Development
 
 - [Web-development](https://github.com/miketaran/frontend)
