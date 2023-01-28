@@ -43,6 +43,7 @@
 - [Checklists](https://github.com/miketaran/checklist)
 - [Test-Suites and Test-Cases](https://github.com/miketaran/test-cases)
 - [Bug-Reports](https://github.com/miketaran/bug-reports)
+- [Test Plan](https://github.com/MikeTaran/testplan)
 - [SQL Queries](https://github.com/miketaran/SQL)
 - [Postman Collections](https://github.com/miketaran/postman)
 
