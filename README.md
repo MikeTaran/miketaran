@@ -51,7 +51,8 @@
 
 ### QA Automation
 
-- [Python](https://github.com/MikeTaran/Python)
+- [Selenium IDE](https://github.com/MikeTaran/selenium_ide)
+- [Cypress](https://github.com/MikeTaran/Cypress)
 
 ---
 
