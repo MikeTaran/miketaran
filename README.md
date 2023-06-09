@@ -9,7 +9,7 @@
 <h1>I'm a QA Engineer and the QA Engineer means me!</h1>
 <h2>My CV</h2>
 
-[Link to my CV](https://mykhailo-t.netlify.app)
+[Link to my CV](https://drive.google.com/file/d/1sZdckoav6yDbQWbKOFxbhJAgh8nzM8L9/view?usp=sharing)
 
 ---
 
