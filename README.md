@@ -74,7 +74,7 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/Bear3XL/badges/large)](https://www.codewars.com/users/Bear3XL)
+[![codewars](https://www.codewars.com/users/MikeTaran/badges/large)](https://www.codewars.com/users/MikeTaran)
 
 ---
 
