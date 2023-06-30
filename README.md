@@ -9,7 +9,8 @@
 <h1>I'm a QA Engineer and the QA Engineer means me!</h1>
 <h2>My CV</h2>
 
-[Link to my CV](https://drive.google.com/file/d/1sZdckoav6yDbQWbKOFxbhJAgh8nzM8L9/view?usp=sharing)
+[Link to my CV](![Header](https://miketaran.github.io/rsschool-cv/cv)
+)
 
 ---
 
@@ -35,6 +36,8 @@
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=f76935)
 ![Header](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#ffb42d)
+![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&logoColor=#ffb42d)
+
 
 ---
 
