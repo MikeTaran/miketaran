@@ -9,8 +9,7 @@
 <h1>I'm a QA Engineer and the QA Engineer means me!</h1>
 <h2>My CV</h2>
 
-[Link to my CV](![Header](https://miketaran.github.io/rsschool-cv/cv)
-)
+[Link to my CV](https://miketaran.github.io/rsschool-cv/cv)
 
 ---
 
