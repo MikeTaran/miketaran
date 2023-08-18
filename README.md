@@ -24,10 +24,7 @@
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/AzureDevops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
 ![Header](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
-![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=7d5fa6)
@@ -35,6 +32,10 @@
 ![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=f76935)
 ![Header](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#ffb42d)
+![Header](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=Cypress&logoColor=#ffb42d)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=#ffb42d)
+![Header](https://img.shields.io/badge/Pytest-090909?style=for-the-badge&logo=Pytest&logoColor=#ffb42d)
+![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=#ffb42d)
 ![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&logoColor=#ffb42d)
 
 
@@ -53,6 +54,7 @@
 
 ### QA Automation
 
+- [Selenium&Pytest](https://github.com/MikeTaran/PytestSelenium)
 - [Selenium IDE](https://github.com/MikeTaran/selenium_ide)
 - [Cypress](https://github.com/MikeTaran/Cypress)
 
