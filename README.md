@@ -1,7 +1,4 @@
-<!-- ![Header](https://github.com/MikeTaran/miketaran/blob/main/assets/back1.png) -->
-<p align="center">
-     <img src="https://user-images.githubusercontent.com/22433371/180026048-e23e11a5-cde1-4c91-b68a-696457c66fb6.png" />
- </p>
+![Header](https://github.com/MikeTaran/miketaran/blob/main/assets/back1.png)
 
 ![count](https://komarev.com/ghpvc/?username=miketaran)
 
