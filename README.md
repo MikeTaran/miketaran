@@ -51,6 +51,7 @@
 
 ### QA Automation
 
+- [REST APIs](https://github.com/MikeTaran/Handmade_API_Testing)
 - [Selenium&Pytest](https://github.com/MikeTaran/PytestSelenium)
 - [Selenium IDE](https://github.com/MikeTaran/selenium_ide)
 - [Cypress](https://github.com/MikeTaran/Cypress)
